@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on improve my programming, communicative, social and design skills   
 - 🏫 I'm currently studying computer science at intelli
-- 🌱 I’m currently learning python, Godot and Design
+- 🌱 I’m currently learning Python, JS, Node, DB
 - 📫 How to reach me: vitto.mazeto@sou.inteli.edu.br
 
 <div style="display: inline_block"><br>
